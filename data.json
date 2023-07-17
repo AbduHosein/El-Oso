@@ -4,33 +4,33 @@
     "links": [
         {
             "title": "Book Me!",
-            "url": ""
+            "href": ""
         },
         {
             "title": "Maine House Mix Vol.9",
-            "url": "https://www.youtube.com/watch?v=otG3PP9pyeg&ab_channel=MaineHouseMusic"
+            "href": "https://www.youtube.com/watch?v=otG3PP9pyeg&ab_channel=MaineHouseMusic"
         },
         {
             "title": "The Philosophy Mix",
-            "url": "https://www.youtube.com/watch?v=sTK-LKwU-4c&ab_channel=MaineHouseMusic"
+            "href": "https://www.youtube.com/watch?v=sTK-LKwU-4c&ab_channel=MaineHouseMusic"
         },
         {
             "title": "Youtube",
-            "url": "https://www.youtube.com/channel/UC6VV2gkC4YfBh7m9fx40yAA"
+            "href": "https://www.youtube.com/channel/UC6VV2gkC4YfBh7m9fx40yAA"
         },
         {
             "title": "Soundcloud",
-            "url": "https://soundcloud.com/mainehousemusic"
+            "href": "https://soundcloud.com/mainehousemusic"
         },
         {
             "title": "Diego's Track ID's",
-            "url": "https://open.spotify.com/playlist/4VRT4O2UA3fSFMQTXfzxoI"
+            "href": "https://open.spotify.com/playlist/4VRT4O2UA3fSFMQTXfzxoI"
         }
     ],
     "socials": [
         {
             "title": "Instagram",
-            "url": "https://www.instagram.com/mainehousemusic/"
+            "href": "https://www.instagram.com/mainehousemusic/"
         }
 
     ]
